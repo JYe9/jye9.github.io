@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-06-26-CNN-based-Real-time-Forest-Fire-Detection-System
 excerpt: 'This paper proposes a system architecture that uses deep learning image processing techniques to automatically identify forest fires in real-time using neural network models for small UAV applications. Considering the strict power and payload constraints of small UAVs, the proposed model runs on a compact, lightweight Raspberry Pi4B (RPi4B) and its performance is comparable to the state-of-the-art metrics (accuracy and real-time response) while achieving significant reduction in CPU usage and power consumption. The proposed YOLOv5 optimization approach used in this paper includes: 1) Replacing the backbone network to ShuffleNetV2, 2) Pruning the Head and Neck network following the backbone baseline, 3) Sparse training to implement the model-pruning method, 4) Fine-tuning of the pruned network to recover the detection accuracy and 5) Hardware acceleration by overclocking the RPi4B to improve the inference speed of the algorithm. Experimental results of the proposed forest fire detection system show that the proposed algorithm compared to the state-of-the-art that run on RPi single board computer, achieves 50% higher inference speed (9 FPS), reduction in CPU usage and temperature by 35% and 25% respectively and 10% reduced power consumption while the accuracy (92.5%) is only compromised by 2%. Finally, it is worth noting that the accuracy of the proposed algorithm is not affected by deviations in the bird-eye view angle.'
 date: 2023-06-26
-venue: 'Journal 1'
+venue: '31st Mediterranean Conference on Control and Automation (MED)'
 paperurl: 'https://clok.uclan.ac.uk/48125/1/MED2023ConferenceV2.pdf'
 citation: 'Ye, J., Ioannou, S., Nikolaou, P. and Raspopoulos, M., 2023, June. CNN based Real-time Forest Fire Detection System for Low-power Embedded Devices. In 2023 <i>31st Mediterranean Conference on Control and Automation (MED)</i> (pp. 137-143). IEEE.'
 ---
@@ -12,4 +12,4 @@ This paper proposes a system architecture that uses deep learning image processi
 
 [Download paper here](https://clok.uclan.ac.uk/48125/1/MED2023ConferenceV2.pdf)
 
-Recommended citation: Ye, J., Ioannou, S., Nikolaou, P. and Raspopoulos, M., 2023, June. CNN based Real-time Forest Fire Detection System for Low-power Embedded Devices. In 2023 <i>31st Mediterranean Conference on Control and Automation (MED)</i> (pp. 137-143). IEEE.
+<!-- Recommended citation: Ye, J., Ioannou, S., Nikolaou, P. and Raspopoulos, M., 2023, June. CNN based Real-time Forest Fire Detection System for Low-power Embedded Devices. In 2023 <i>31st Mediterranean Conference on Control and Automation (MED)</i> (pp. 137-143). IEEE. -->

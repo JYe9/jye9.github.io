@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Jianllin!"
+title: "👋🏼 Hello there, I'm Jianlin!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-
-<!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
+![Illustration of real-time image segmentation Algorithm](/images/image_segmentation.jpg){: .align-right width="300px"}
 👨🏻‍💻 I'm a first year graduate student at the University of Cyprus.
 
 🔬 My research interests are in Computer vision and Self-Supervised Learning!
@@ -22,20 +20,20 @@ redirect_from:
 # Selected Experience
 
 ## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+I have experience contributing to [Mutiple Stereo Cameras indoor 3D Positioning System](https://github.com/JYe9/multiple_OAK-D_cameras_3D_indoor_positioning) an open-source project for indoor 3D positioning using Deep Learning Algorithim.
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+Moreover, I have published a [research paper](https://jye9.github.io//publication/2023-06-26-CNN-based-Real-time-Forest-Fire-Detection-System) at the 31st Mediterranean Conference on Control and Automation (MED) conference.
 
 ## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
+I have experience in independent research. I have reproduced many of the classic papers in **Computer Vision** using Python, and the reproduced code can be seen in my [GitHub repository](https://github.com/JYe9?tab=repositories).
 
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
-
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+<!-- Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/). -->
 
 ## 👨🏻‍🔬 Professional Experience
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I work on dynamic traffic flow forecasting using Graph Neural Networks.
+Additionally, I have professional experience working as a **Software Engineer**. \
+I utilise python and C# for software development.
 
 ## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+To further contribute to the Machine Learning community, I'll be starting a YouTube and Medium channel for AI-related content soon.
+
+<!-- I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content. -->
