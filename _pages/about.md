@@ -34,6 +34,4 @@ Additionally, I have professional experience working as a **Software Engineer**.
 I utilise python and C# for software development.
 
 ## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I'll be starting a YouTube and Medium channel for AI-related content soon.
-
-<!-- I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content. -->
+To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@kristianye562) and [Medium](https://medium.com/@skristian266) channel for AI-related content.
