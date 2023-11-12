@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -16,8 +16,8 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    # url: /cv/
-    url: /files/JIANLIN_YE_CV.pdf
+    url: /cv/
+    # url: /files/JIANLIN_YE_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/

@@ -9,32 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+Profile
+======
+I am a software engineer with an electrical engineering background. My programming language of choice is Python, followed closely by C# and C++. Driven by innovation, I aspire to contribute in an ever-evolving environment that enhances technical solutions. 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng (Hons) in Electrical and Electronic Engineering, University of Central Lancashire, 2019 - 2023
+* MSc Artificial Intelligence, University of Cyprus, 2023 - 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - 2022: BACKOFFICE ADMINISTRATOR 
+  * FP-MARKETS 
+  * Duties included: Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 – 2023: Service Desk Officer
+  * Windsor Brokers 
+  * Duties included: Ensure proper function of user’s computer, software and any peripherals. System administration of Systems related withusers. Computer hardware maintenance. Assist with other IT professionals for design configuration and change requests. Computers build up and OS installation. Troubleshoot computer problems. Procurement of computer equipment. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PROGRAMMING 
+  * Python
+  * C++
+  * Java
+* TEAMWORK/COLLABORATION 
+* PROJECT MANAGEMENT 
+* ADAPTABILITY 
+* PROBLEM SOLVING 
 
 Publications
 ======
@@ -54,6 +57,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Activities
 ======
-* Currently signed in to 43 different slack teams
+* Member of IET
+* AWS Certified Cloud Practitioner
+* Chairman of IET On Campus program in UCLan Cyprus 
+* MSc AI Scholarship 
+* Official University / School Prizes Academic  
+
+Reference **available upon request**
