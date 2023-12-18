@@ -1,8 +1,9 @@
-<!-- ---
+---
 title: "Portfolio"
-excerpt: "Short description of portfolio<br/><img src='/images/image_segmentation.jpg'>"
+excerpt: "Click to view my portfolio<br/>"
+# excerpt: "Click to view my portfolio<br/><img src='/images/image_segmentation.jpg'>"
 collection: portfolio
---- -->
+---
 
 ## **Introduction**
 Hello! I'm Jianlin, a software engineer with a strong foundation in electrical engineering, currently enriching my knowledge as a first-year graduate student at the University of Cyprus. My passion lies at the intersection of Computer Vision, Self-Supervised Learning, and Natural Language Processing.
