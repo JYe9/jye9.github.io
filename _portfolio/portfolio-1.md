@@ -3,6 +3,8 @@ title: "Portfolio"
 excerpt: "Click to view my portfolio<br/>"
 # excerpt: "Click to view my portfolio<br/><img src='/images/image_segmentation.jpg'>"
 collection: portfolio
+redirect_from: 
+  - /portfolio/
 ---
 
 ## **Introduction**
