@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 ![Illustration of real-time image segmentation Algorithm](/images/image_segmentation.jpg){: .align-right width="300px"}
-👨🏻‍💻 I'm a first year graduate student at the University of Cyprus.
+👨🏻‍💻 I'm a graduate student at the University of Cyprus.
 
 🔬 My research interests are in Computer vision and Self-Supervised Learning!
 
-📚 I'm currently working in the [KIOS Research and Innovation Centre of Excellence (KIOS CoE)](https://www.kios.ucy.ac.cy/) as a Software Engineer in the field of Computer Vision.
+📚 I'm currently working in the KIOS Research and Innovation Centre of Excellence [(KIOS CoE)](https://www.kios.ucy.ac.cy/) as a Software Engineer in the field of Computer Vision.
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
@@ -31,7 +31,7 @@ I have experience in independent research. I have reproduced many of the classic
 
 ## 👨🏻‍🔬 Professional Experience
 Additionally, I have professional experience working as a **Software Engineer**. \
-I utilise python and C# for software development.For more information about me, please see my [**CV**](https://jye9.github.io/cv/) page!
+I utilise python and C# for software development. For more information about me, please see my [**CV**](https://jye9.github.io/cv/) page!
 
 ## 📚 Teaching and Community Contributions
 To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@kristianye562) and [Medium](https://medium.com/@skristian266) channel for AI-related content.
