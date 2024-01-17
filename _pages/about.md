@@ -31,7 +31,7 @@ I have experience in independent research. I have reproduced many of the classic
 
 ## 👨🏻‍🔬 Professional Experience
 Additionally, I have professional experience working as a **Software Engineer**. \
-I utilise python and C# for software development.
+I utilise python and C# for software development.For more information about me, please see my [**CV**](https://jye9.github.io/cv/) page!
 
 ## 📚 Teaching and Community Contributions
 To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@kristianye562) and [Medium](https://medium.com/@skristian266) channel for AI-related content.

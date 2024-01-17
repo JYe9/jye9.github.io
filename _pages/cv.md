@@ -21,14 +21,19 @@ Education
 Work experience
 ======
 * 2021 - 2022: Backoffice Administrator
+
   **FP-MARKETS** 
+
+  Duties included: 
   
-  * Duties included: Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
+  Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
   
 * 2022 – 2023: Service Desk Officer
+
   **Windsor Brokers** 
   
-  * Duties included: 
+  Duties included: 
+
   - Ensure proper function of user’s computer, software and any peripherals. 
   - System administration of Systems related withusers. 
   - Computer hardware maintenance. 
@@ -38,9 +43,10 @@ Work experience
   - Procurement of computer equipment. 
   
 * 2023 – Current: Software Engineer (Computer Vision)
-  [**KIOS Research and Innovation Centre of Excellence (KIOS CoE)**](https://www.kios.ucy.ac.cy/)
-  
-  * Duties included: 
+
+  **KIOS Research and Innovation Centre of Excellence (KIOS CoE)
+
+  Duties included: 
   - Participate in cutting-edge research and development of novel technologies and applications in Computer Vision and Machine Learning
   - Participate in the dissemination of research results in conferences and journals
   - Responsible for the implementation and testing of new solutions on mobile platforms (drones)
