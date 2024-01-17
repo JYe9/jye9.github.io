@@ -26,7 +26,25 @@ Work experience
 
 * 2022 – 2023: Service Desk Officer
   * Windsor Brokers 
-  * Duties included: Ensure proper function of user’s computer, software and any peripherals. System administration of Systems related withusers. Computer hardware maintenance. Assist with other IT professionals for design configuration and change requests. Computers build up and OS installation. Troubleshoot computer problems. Procurement of computer equipment. 
+  * Duties included: 
+  • Ensure proper function of user’s computer, software and any peripherals. 
+  • System administration of Systems related withusers. 
+  • Computer hardware maintenance. 
+  • Assist with other IT professionals for design configuration and change requests. 
+  • Computers build up and OS installation. 
+  • Troubleshoot computer problems. 
+  • Procurement of computer equipment. 
+
+* 2023 – Current: Software Engineer (Computer Vision)
+  * [KIOS Research and Innovation Centre of Excellence (KIOS CoE)](https://www.kios.ucy.ac.cy/)
+  * Duties included: 
+  • Participate in cutting-edge research and development of novel technologies and applications in Computer Vision and Machine Learning
+  • Participate in the dissemination of research results in conferences and journals
+  • Responsible for the implementation and testing of new solutions on mobile platforms (drones)
+  • Responsible for the optimization of existing solutions in terms of R&D and industrial applications
+  • Responsible for data collection, annotation, and preparation of datasets for release
+  • Work closely with other researchers and engineers within a team to develop solutions for various cases
+  • Prepare manuals and guidelines
   
 Skills
 ======

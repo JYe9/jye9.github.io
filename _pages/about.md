@@ -13,7 +13,7 @@ redirect_from:
 
 🔬 My research interests are in Computer vision and Self-Supervised Learning!
 
-📚 I'm currently working towards my Master's Thesis in the field of Computer Vision and Natural Language Processing.
+📚 I'm currently working in the [KIOS Research and Innovation Centre of Excellence (KIOS CoE)](https://www.kios.ucy.ac.cy/) as a Software Engineer in the field of Computer Vision.
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
