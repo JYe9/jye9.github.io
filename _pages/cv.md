@@ -20,17 +20,20 @@ Education
 
 Work experience
 ======
-* 2021 - 2022: Backoffice Administrator
-
-  **FP-MARKETS** 
+**KIOS Research and Innovation Centre of Excellence (KIOS CoE)**
+  2023 – Current: Software Engineer (Computer Vision)
 
   Duties included: 
+  - Participate in cutting-edge research and development of novel technologies and applications in Computer Vision and Machine Learning
+  - Participate in the dissemination of research results in conferences and journals
+  - Responsible for the implementation and testing of new solutions on mobile platforms (drones)
+  - Responsible for the optimization of existing solutions in terms of R&D and industrial applications
+  - Responsible for data collection, annotation, and preparation of datasets for release
+  - Work closely with other researchers and engineers within a team to develop solutions for various cases
+  - Prepare manuals and guidelines
   
-  Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
-  
-* 2022 – 2023: Service Desk Officer
-
-  **Windsor Brokers** 
+**Windsor Brokers** 
+  2022 – 2023: Service Desk Officer
   
   Duties included: 
 
@@ -41,19 +44,13 @@ Work experience
   - Computers build up and OS installation. 
   - Troubleshoot computer problems. 
   - Procurement of computer equipment. 
-  
-* 2023 – Current: Software Engineer (Computer Vision)
 
-  **KIOS Research and Innovation Centre of Excellence (KIOS CoE)
+**FP-MARKETS** 
+  2021 - 2022: Backoffice Administrator
 
   Duties included: 
-  - Participate in cutting-edge research and development of novel technologies and applications in Computer Vision and Machine Learning
-  - Participate in the dissemination of research results in conferences and journals
-  - Responsible for the implementation and testing of new solutions on mobile platforms (drones)
-  - Responsible for the optimization of existing solutions in terms of R&D and industrial applications
-  - Responsible for data collection, annotation, and preparation of datasets for release
-  - Work closely with other researchers and engineers within a team to develop solutions for various cases
-  - Prepare manuals and guidelines
+  
+  Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
 
 Publications
 ======
@@ -66,12 +63,6 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 Skills
 ======
