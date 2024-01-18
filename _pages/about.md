@@ -40,6 +40,19 @@ I utilise python and C# for software development. For more information about me,
 ## 📚 Teaching and Community Contributions
 To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@kristianye562) and [Medium](https://medium.com/@skristian266) channel for AI-related content.
 
+<a class="twitter-timeline" href="https://twitter.com/Kristian2000266?ref_src=twsrc%5Etfw">Tweets by Kristian2000266</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class='sk-ww-medium-publication-feed' data-embed-id='25350745'></div><script src='https://widgets.sociablekit.com/medium-publication-feed/widget.js' async defer></script>
+
+<div id="retainable-rss-embed" 
+data-rss="https://medium.com/feed/@skristian266"
+data-maxcols="3" 
+data-layout="grid" 
+data-poststyle="inline" 
+data-readmore="Read the rest" 
+data-buttonclass="btn btn-primary" 
+data-offset="-100"></div>
+
 ### Programming languages
 
 <table align="center" style="border-collapse: collapse; border: none;font-size:14px">

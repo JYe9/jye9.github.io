@@ -54,8 +54,8 @@ Implemented Deep Learning algorithms to enhance system accuracy and reliability.
 
 ### Community Engagement ###
 Creator of AI-related content on YouTube and Medium, focusing on Machine Learning and Computer Vision.
-- [Software Engineer Blog](https://medium.com/@skristian266)
-- [Software Engineer YouTube](https://www.youtube.com/@kristianye562)
+- [My Medium Blog](https://medium.com/@skristian266)
+- [My YouTube](https://www.youtube.com/@kristianye562)
 
 ## Talks & Lectures
 - “A CNN-based Real-time Forest Fire Detection System for Low-power Embedded Devices” - Talk on the 31st Mediterranean Conference on Control and Automation (MED) , Fall 2023.
