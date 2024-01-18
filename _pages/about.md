@@ -6,6 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home/
+twitter-color: "#55acee"
+github-color: "#171516"
+blogger-color: "#F37100"
 ---
 
 ![Illustration of real-time image segmentation Algorithm](/images/image_segmentation.jpg){: .align-right width="300px"}
@@ -137,3 +141,4 @@ To further contribute to the Machine Learning community, I have a [YouTube](http
   </tr>
 </table>
 
+<iframe width="300" src="https://www.youtube.com/embed/rG7kNidA9aY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

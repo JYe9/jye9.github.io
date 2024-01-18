@@ -1,74 +1,60 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Portfolio"
+excerpt: "Click to view my portfolio<br/>"
+# excerpt: "Click to view my portfolio<br/><img src='/images/image_segmentation.jpg'>"
+collection: portfolio
+redirect_from: 
+  - /portfolio/
 ---
 
-<!-- {% include base_path %} -->
+# Software Engineer
 
-Profile
-======
-I am a software engineer with an electrical engineering background. My programming language of choice is Python, followed closely by C# and C++. Driven by innovation, I aspire to contribute in an ever-evolving environment that enhances technical solutions. 
+## Education							       		
+- MSc Artificial Intelligence	| University of Cyprus (_2023 - Current_)	 			        		
+- BEng (Hons) in Electrical and Electronic Engineering | University of Central Lancashire (_2019 - 2023_)
 
-Education
-======
-* BEng (Hons) in Electrical and Electronic Engineering, University of Central Lancashire, 2019 - 2023
-* MSc Artificial Intelligence, University of Cyprus, 2023 - 2025 (expected)
+## Work Experience
 
-Work experience
-======
-**KIOS Research and Innovation Centre of Excellence (KIOS CoE)**
-
-  2023 – Current: Software Engineer (Computer Vision)
-
-  Duties included: 
-  - Participate in cutting-edge research and development of novel technologies and applications in Computer Vision and Machine Learning
-  - Participate in the dissemination of research results in conferences and journals
-  - Responsible for the implementation and testing of new solutions on mobile platforms (drones)
-  - Responsible for the optimization of existing solutions in terms of R&D and industrial applications
-  - Responsible for data collection, annotation, and preparation of datasets for release
-  - Work closely with other researchers and engineers within a team to develop solutions for various cases
-  - Prepare manuals and guidelines
+**KIOS Research and Innovation Centre of Excellence (KIOS CoE) @ Software Engineer (Computer Vision) (_Janurary 2024 - Current_)**
+- Participate in cutting-edge research and development of novel technologies and applications in Computer Vision and Machine Learning
+- Participate in the dissemination of research results in conferences and journals
+- Responsible for the implementation and testing of new solutions on mobile platforms (drones)
+- Responsible for the optimization of existing solutions in terms of R&D and industrial applications
+- Responsible for data collection, annotation, and preparation of datasets for release
+- Work closely with other researchers and engineers within a team to develop solutions for various cases
+- Prepare manuals and guidelines
   
-**Windsor Brokers** 
+**Windsor Brokers @ Service Desk Officer (_Feberary 2023 - September 2023_)** 
+- Ensure proper function of user’s computer, software and any peripherals. 
+- System administration of Systems related withusers. 
+- Computer hardware maintenance. 
+- Assist with other IT professionals for design configuration and change requests. 
+- Computers build up and OS installation. 
+- Troubleshoot computer problems. 
+- Procurement of computer equipment. 
 
-  2022 – 2023: Service Desk Officer
-  
-  Duties included: 
+**FP-MARKETS @ Backoffice Administrator (_June 2021 - November 2022_)** 
+- Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
 
-  - Ensure proper function of user’s computer, software and any peripherals. 
-  - System administration of Systems related withusers. 
-  - Computer hardware maintenance. 
-  - Assist with other IT professionals for design configuration and change requests. 
-  - Computers build up and OS installation. 
-  - Troubleshoot computer problems. 
-  - Procurement of computer equipment. 
+## Projects
+### A CNN-based Real-time Forest Fire Detection System for Low-power Embedded Devices
+[Publication](https://clok.uclan.ac.uk/48125/1/MED2023ConferenceV2.pdf)
 
-**FP-MARKETS** 
+This paper proposes a system architecture that uses deep learning image processing techniques to automatically identify forest fires in real-time using neural network models for small UAV applications. Considering the strict power and payload constraints of small UAVs, the proposed model runs on a compact, lightweight Raspberry Pi4B (RPi4B) and its performance is comparable to the state-of-the-art metrics (accuracy and real-time response) while achieving significant reduction in CPU usage and power consumption. The proposed YOLOv5 optimization approach used in this paper includes: 1) Replacing the backbone network to ShuffleNetV2, 2) Pruning the Head and Neck network following the backbone baseline, 3) Sparse training to implement the model-pruning method, 4) Fine-tuning of the pruned network to recover the detection accuracy and 5) Hardware acceleration by overclocking the RPi4B to improve the inference speed of the algorithm. Experimental results of the proposed forest fire detection system show that the proposed algorithm compared to the state-of-the-art that run on RPi single board computer, achieves 50% higher inference speed (9 FPS), reduction in CPU usage and temperature by 35% and 25% respectively and 10% reduced power consumption while the accuracy (92.5%) is only compromised by 2%. Finally, it is worth noting that the accuracy of the proposed algorithm is not affected by deviations in the bird-eye view angle.
 
-  2021 - 2022: Backoffice Administrator
+![EEG Band Discovery](/images/MED23demo.png)
 
-  Duties included: 
-  
-  Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
+## Talks & Lectures
+- “A CNN-based Real-time Forest Fire Detection System for Low-power Embedded Devices” - Talk on the 31st Mediterranean Conference on Control and Automation (MED) , Fall 2023
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- [Software Engineer YouTube](https://www.youtube.com/@kristianye562)
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Skills
-======
+## Publications
+1. Ye, J., Ioannou, S., Nikolaou, P. and Raspopoulos, M., 2023, June. CNN based Real-time Forest Fire Detection System for Low-power Embedded Devices. In 2023 <i>31st Mediterranean Conference on Control and Automation (MED)</i> (pp. 137-143). IEEE.
+
+- [Software Engineer Blog](https://medium.com/@skristian266)
+
+## Skills
 * PROGRAMMING 
 * TEAMWORK/COLLABORATION 
 * PROJECT MANAGEMENT 
@@ -176,13 +162,11 @@ Skills
   </tr>
 </table>
 
-
-Activities
-======
+## Activities
 * Member of IET
 * AWS Certified Cloud Practitioner
 * Chairman of IET On Campus program in UCLan Cyprus 
 * MSc AI Scholarship 
 * Official University / School Prizes Academic  
 
-Reference **available upon request**
+Reference **available upon request*
