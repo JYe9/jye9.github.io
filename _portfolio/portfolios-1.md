@@ -7,11 +7,13 @@ redirect_from:
   - /portfolio/
 ---
 
-# Software Engineer
+## Introduction
+Hello! I'm Jianlin, a software engineer with a strong foundation in electrical engineering, currently enriching my knowledge as a first-year graduate student at the University of Cyprus. My passion lies at the intersection of Computer Vision, Self-Supervised Learning, and Natural Language Processing.
 
 ## Education							       		
 **MSc Artificial Intelligence**	 
-University of Cyprus (_2023 - Current_)	 			        		
+University of Cyprus (_2023 - Current_)
+
 **BEng (Hons) in Electrical and Electronic Engineering** 
 University of Central Lancashire (_2019 - 2023_)
 
@@ -38,7 +40,7 @@ University of Central Lancashire (_2019 - 2023_)
 **FP-MARKETS @ Backoffice Administrator (_June 2021 - November 2022_)** 
 - Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
 
-## Projects
+## Projects and Contributions
 ### A CNN-based Real-time Forest Fire Detection System for Low-power Embedded Devices
 [Publication](https://clok.uclan.ac.uk/48125/1/MED2023ConferenceV2.pdf)
 
@@ -48,17 +50,27 @@ This paper proposes a system architecture that uses deep learning image processi
 
 <iframe width="300" src="https://www.youtube.com/embed/rG7kNidA9aY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Talks & Lectures
-- “A CNN-based Real-time Forest Fire Detection System for Low-power Embedded Devices” - Talk on the 31st Mediterranean Conference on Control and Automation (MED) , Fall 2023
+### Indoor 3D Positioning System ###
+Contributed to an open-source project using Multiple Stereo Cameras for indoor 3D positioning.
+Implemented Deep Learning algorithms to enhance system accuracy and reliability.
 
+### Community Engagement ###
+Creator of AI-related content on YouTube and Medium, focusing on Machine Learning and Computer Vision.
+- [Software Engineer Blog](https://medium.com/@skristian266)
 - [Software Engineer YouTube](https://www.youtube.com/@kristianye562)
 
+## Talks & Lectures
+- “A CNN-based Real-time Forest Fire Detection System for Low-power Embedded Devices” - Talk on the 31st Mediterranean Conference on Control and Automation (MED) , Fall 2023.
+
 ## Publications
+
 1. Ye, J., Ioannou, S., Nikolaou, P. and Raspopoulos, M., 2023, June. CNN based Real-time Forest Fire Detection System for Low-power Embedded Devices. In 2023 <i>31st Mediterranean Conference on Control and Automation (MED)</i> (pp. 137-143). IEEE.
 
-- [Software Engineer Blog](https://medium.com/@skristian266)
+**Independent Research:**
+- Reproduced several classic Computer Vision papers using Python.
+- My work is available on [GitHub repository](https://github.com/JYe9?tab=repositories).
 
-## Skills
+## Skills and Technologies
 * PROGRAMMING 
 * TEAMWORK/COLLABORATION 
 * PROJECT MANAGEMENT 
