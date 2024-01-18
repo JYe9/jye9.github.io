@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jianlin's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jianlin Ye"
 description              : &description "Software Engineer"

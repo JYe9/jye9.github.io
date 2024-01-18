@@ -1,16 +1,17 @@
 ---
 permalink: /portfolio/
-title: "Portfolio"
+# title: "Portfolio"
 ---
-
 ## Introduction
 Hello! I'm Jianlin, a software engineer with a strong foundation in electrical engineering, currently enriching my knowledge as a first-year graduate student at the University of Cyprus. My passion lies at the intersection of Computer Vision, Self-Supervised Learning, and Natural Language Processing.
 
 ## Education							       		
-**MSc Artificial Intelligence**	 
+**MSc Artificial Intelligence**
+
 University of Cyprus (_2023 - Current_)
 
 **BEng (Hons) in Electrical and Electronic Engineering** 
+
 University of Central Lancashire (_2019 - 2023_)
 
 ## Work Experience
