@@ -1,10 +1,6 @@
 ---
+permalink: /portfolio/
 title: "Portfolio"
-excerpt: "Click to view my portfolio<br/>"
-# excerpt: "Click to view my portfolio<br/><img src='/images/image_segmentation.jpg'>"
-collection: portfolio
-redirect_from: 
-  - /portfolio/
 ---
 
 ## Introduction
@@ -185,4 +181,4 @@ Creator of AI-related content on YouTube and Medium, focusing on Machine Learnin
 * MSc AI Scholarship 
 * Official University / School Prizes Academic  
 
-Reference **available upon request*
+Reference **available upon request**

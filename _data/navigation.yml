@@ -10,11 +10,11 @@ main:
     url: /talks/      
     
   - title: "Portfolio"
-    url: /portfolio/portfolio-1/
+    url: /portfolio/
     
-  - title: "CV"
-    url: /mycv/
-    # url: /files/JIANLIN_YE_CV.pdf
+  # - title: "CV"
+  #   url: /mycv/
+  #   # url: /files/JIANLIN_YE_CV.pdf
   
   - title: "Contact"
     url: /contact/
