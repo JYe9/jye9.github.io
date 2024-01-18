@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "Kristian2000266"
 facebook:
   username               :
   app_id                 :
@@ -85,11 +85,12 @@ author:
   bio              : "I am a software engineer with an electrical engineering background. My programming language of choice is Python, followed closely by C# and C++."
   location         : "Nicosia, Cyprus"
   employer         : "University of Cyprus"
+  employeruri      : "https://www.kios.ucy.ac.cy/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3y-JxzAAAAAJ&hl=en"
-  email            : "jye2020@yahoo.com"
+  email            : "jye2020 at yahoo dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://jye9.github.io/"
   bitbucket        :
   codepen          : 
   dribbble         :
@@ -109,11 +110,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "Kristian2000266"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "@kristianye562"
+  youtube          : "@kristianye562"
   wikipedia        :
 
 
