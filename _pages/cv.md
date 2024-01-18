@@ -20,40 +20,26 @@ Education
 
 Work experience
 ======
-**KIOS Research and Innovation Centre of Excellence (KIOS CoE)**
-
-  2023 – Current: Software Engineer (Computer Vision)
-
-  Duties included: 
-  - Participate in cutting-edge research and development of novel technologies and applications in Computer Vision and Machine Learning
-  - Participate in the dissemination of research results in conferences and journals
-  - Responsible for the implementation and testing of new solutions on mobile platforms (drones)
-  - Responsible for the optimization of existing solutions in terms of R&D and industrial applications
-  - Responsible for data collection, annotation, and preparation of datasets for release
-  - Work closely with other researchers and engineers within a team to develop solutions for various cases
-  - Prepare manuals and guidelines
+**KIOS Research and Innovation Centre of Excellence (KIOS CoE) @ Software Engineer (Computer Vision) (_Janurary 2024 - Current_)**
+- Participate in cutting-edge research and development of novel technologies and applications in Computer Vision and Machine Learning
+- Participate in the dissemination of research results in conferences and journals
+- Responsible for the implementation and testing of new solutions on mobile platforms (drones)
+- Responsible for the optimization of existing solutions in terms of R&D and industrial applications
+- Responsible for data collection, annotation, and preparation of datasets for release
+- Work closely with other researchers and engineers within a team to develop solutions for various cases
+- Prepare manuals and guidelines
   
-**Windsor Brokers** 
+**Windsor Brokers @ Service Desk Officer (_Feberary 2023 - September 2023_)** 
+- Ensure proper function of user’s computer, software and any peripherals. 
+- System administration of Systems related withusers. 
+- Computer hardware maintenance. 
+- Assist with other IT professionals for design configuration and change requests. 
+- Computers build up and OS installation. 
+- Troubleshoot computer problems. 
+- Procurement of computer equipment. 
 
-  2022 – 2023: Service Desk Officer
-  
-  Duties included: 
-
-  - Ensure proper function of user’s computer, software and any peripherals. 
-  - System administration of Systems related withusers. 
-  - Computer hardware maintenance. 
-  - Assist with other IT professionals for design configuration and change requests. 
-  - Computers build up and OS installation. 
-  - Troubleshoot computer problems. 
-  - Procurement of computer equipment. 
-
-**FP-MARKETS** 
-
-  2021 - 2022: Backoffice Administrator
-
-  Duties included: 
-  
-  Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
+**FP-MARKETS @ Backoffice Administrator (_June 2021 - November 2022_)** 
+- Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
 
 Publications
 ======

@@ -140,5 +140,3 @@ To further contribute to the Machine Learning community, I have a [YouTube](http
     </td>
   </tr>
 </table>
-
-<iframe width="300" src="https://www.youtube.com/embed/rG7kNidA9aY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -10,8 +10,10 @@ redirect_from:
 # Software Engineer
 
 ## Education							       		
-- MSc Artificial Intelligence	| University of Cyprus (_2023 - Current_)	 			        		
-- BEng (Hons) in Electrical and Electronic Engineering | University of Central Lancashire (_2019 - 2023_)
+**MSc Artificial Intelligence**	 
+University of Cyprus (_2023 - Current_)	 			        		
+**BEng (Hons) in Electrical and Electronic Engineering** 
+University of Central Lancashire (_2019 - 2023_)
 
 ## Work Experience
 
@@ -43,6 +45,8 @@ redirect_from:
 This paper proposes a system architecture that uses deep learning image processing techniques to automatically identify forest fires in real-time using neural network models for small UAV applications. Considering the strict power and payload constraints of small UAVs, the proposed model runs on a compact, lightweight Raspberry Pi4B (RPi4B) and its performance is comparable to the state-of-the-art metrics (accuracy and real-time response) while achieving significant reduction in CPU usage and power consumption. The proposed YOLOv5 optimization approach used in this paper includes: 1) Replacing the backbone network to ShuffleNetV2, 2) Pruning the Head and Neck network following the backbone baseline, 3) Sparse training to implement the model-pruning method, 4) Fine-tuning of the pruned network to recover the detection accuracy and 5) Hardware acceleration by overclocking the RPi4B to improve the inference speed of the algorithm. Experimental results of the proposed forest fire detection system show that the proposed algorithm compared to the state-of-the-art that run on RPi single board computer, achieves 50% higher inference speed (9 FPS), reduction in CPU usage and temperature by 35% and 25% respectively and 10% reduced power consumption while the accuracy (92.5%) is only compromised by 2%. Finally, it is worth noting that the accuracy of the proposed algorithm is not affected by deviations in the bird-eye view angle.
 
 ![EEG Band Discovery](/images/MED23demo.png)
+
+<iframe width="300" src="https://www.youtube.com/embed/rG7kNidA9aY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Talks & Lectures
 - “A CNN-based Real-time Forest Fire Detection System for Low-power Embedded Devices” - Talk on the 31st Mediterranean Conference on Control and Automation (MED) , Fall 2023
