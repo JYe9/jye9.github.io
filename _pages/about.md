@@ -13,7 +13,7 @@ blogger-color: "#F37100"
 ---
 
 ![Illustration of real-time image segmentation Algorithm](/images/image_segmentation.jpg){: .align-right width="300px"}
-👨🏻‍💻 I'm a graduate student at the University of Cyprus.
+👨🏻‍💻 I am a software engineer with an electrical engineering background. My programming language of choice is Python, followed closely by C# and C++.
 
 🔬 My research interests are in Computer vision and Self-Supervised Learning!
 
