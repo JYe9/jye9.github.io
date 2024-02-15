@@ -20,7 +20,7 @@ main:
     url: /schedule/
 
   - title: "Project Demo"
-    url: /dashboard/
+    url: /projects/
   
   - title: "Contact"
     url: /contact/

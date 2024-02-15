@@ -141,6 +141,6 @@ To further contribute to the Machine Learning community, I have a [YouTube](http
   </tr>
 </table>
 
-<a class="twitter-timeline" href="https://twitter.com/Kristian2000266?ref_src=twsrc%5Etfw">Tweets by Kristian2000266</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <a class="twitter-timeline" href="https://twitter.com/Kristian2000266?ref_src=twsrc%5Etfw">Tweets by Kristian2000266</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 

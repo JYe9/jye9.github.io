@@ -47,7 +47,7 @@ title: "Project Demo"
         <iframe
         src="https://jye9-img-classification-demo.hf.space"
         frameborder="0"
-        width="100%" height="700"></iframe>
+        width="100%" height="750"></iframe>
     </div>
     </div>
 
