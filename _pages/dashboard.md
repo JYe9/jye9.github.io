@@ -12,12 +12,13 @@ title: "Project Demo"
         <iframe
         src="https://stevengrove-yolo-world.hf.space" 
         frameborder="0"
-        width="100%" height="600"></iframe>
+        width="1000" height="100%"></iframe>
     </div>
     </div>
         <!-- src="https://jye9-yolo-world.hf.space" -->
 </div>
 </section>
+
 
 <section class="section"  style="background-color:#efeff081">
 <div class="container is-max-desktop">
@@ -27,17 +28,25 @@ title: "Project Demo"
         <iframe
         src="https://fcakyon-yolov8-segmentation.hf.space"
         frameborder="0"
-        width="100%" height="600"></iframe>
+        width="1000" height="100%"></iframe>
     </div>
     </div>
 
 </div>
 </section>
 
-<iframe
-	src="https://jye9-img-classification-demo.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
 
+<section class="section"  style="background-color:#efeff081">
+<div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+    <div class="column is-six-fifths">
+        <h2 class="title is-3"> 🤗 Image Classification Demo</h2>
+        <iframe
+        src="https://jye9-img-classification-demo.hf.space"
+        frameborder="0"
+        width="1000" height="100%"></iframe>
+    </div>
+    </div>
+
+</div>
+</section>
