@@ -11,7 +11,7 @@ author_profile: true
         <iframe
         src="https://roboflow.github.io/polygonzone/"
         frameborder="0"
-        width="200%" height="750"></iframe>
+        width="170%" height="750"></iframe>
     </div>
     </div>
 
