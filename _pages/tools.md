@@ -1,9 +1,9 @@
 ---
 permalink: /tools/
-author_profile: false
+author_profile: true
 ---
 
-<section class="section"  style="background-color:#efeff081">
+<section class="section"  style="background-color:#ffffff">
 <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
     <div class="column is-six-fifths">
@@ -11,7 +11,7 @@ author_profile: false
         <iframe
         src="https://roboflow.github.io/polygonzone/"
         frameborder="0"
-        width="160%" height="750"></iframe>
+        width="200%" height="750"></iframe>
     </div>
     </div>
 
