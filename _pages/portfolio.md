@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-title: "Portfolio"
+# title: "Portfolio"
 ---
 
 ## Introduction

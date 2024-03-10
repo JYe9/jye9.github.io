@@ -1,5 +1,6 @@
 ---
 permalink: /tools/
+author_profile: false
 ---
 
 <section class="section"  style="background-color:#efeff081">
@@ -10,7 +11,7 @@ permalink: /tools/
         <iframe
         src="https://roboflow.github.io/polygonzone/"
         frameborder="0"
-        width="100%" height="750"></iframe>
+        width="160%" height="750"></iframe>
     </div>
     </div>
 
