@@ -22,5 +22,8 @@ main:
   - title: "Project Demo"
     url: /projects/
   
+  - title: "Tools"
+    url: /tools/
+
   - title: "Contact"
     url: /contact/
