@@ -1,5 +1,6 @@
 ---
 permalink: /tools/
+title: "Tools for AI Development"
 author_profile: true
 ---
 
