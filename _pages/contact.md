@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-# title: "Contact Info"
+title: "Contact Info"
 ---
 
 ## Office Location
