@@ -1,5 +1,6 @@
 ---
 permalink: /portfolio/
+title: ""
 author_profile: true
 ---
 
