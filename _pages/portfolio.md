@@ -1,13 +1,11 @@
 ---
 permalink: /portfolio/
-title: ""
+title: "Introduction"
 author_profile: true
 ---
-
-## Introduction
 Hello! I'm Jianlin, a software engineer with a strong foundation in electrical engineering, currently enriching my knowledge as a first-year graduate student at the University of Cyprus. My passion lies at the intersection of Computer Vision, Self-Supervised Learning, and Natural Language Processing.
 
-## Education							       		
+# Education							       		
 **MSc Artificial Intelligence**
 
 University of Cyprus (_2023 - Current_)
@@ -16,7 +14,7 @@ University of Cyprus (_2023 - Current_)
 
 University of Central Lancashire (_2019 - 2023_)
 
-## Work Experience
+# Work Experience
 
 **KIOS Research and Innovation Centre of Excellence (KIOS CoE) @ Software Engineer (Computer Vision) (_Janurary 2024 - Current_)**
 - Participate in cutting-edge research and development of novel technologies and applications in Computer Vision and Machine Learning
@@ -39,8 +37,8 @@ University of Central Lancashire (_2019 - 2023_)
 **FP-MARKETS @ Backoffice Administrator (_June 2021 - November 2022_)** 
 - Providing technical support to the client Ensure and maintain full client access to Trading Platform service. 
 
-## Projects and Contributions
-### A CNN-based Real-time Forest Fire Detection System for Low-power Embedded Devices
+# Projects and Contributions
+## A CNN-based Real-time Forest Fire Detection System for Low-power Embedded Devices
 [Publication](https://clok.uclan.ac.uk/48125/1/MED2023ConferenceV2.pdf)
 
 This paper proposes a system architecture that uses deep learning image processing techniques to automatically identify forest fires in real-time using neural network models for small UAV applications. Considering the strict power and payload constraints of small UAVs, the proposed model runs on a compact, lightweight Raspberry Pi4B (RPi4B) and its performance is comparable to the state-of-the-art metrics (accuracy and real-time response) while achieving significant reduction in CPU usage and power consumption. The proposed YOLOv5 optimization approach used in this paper includes: 1) Replacing the backbone network to ShuffleNetV2, 2) Pruning the Head and Neck network following the backbone baseline, 3) Sparse training to implement the model-pruning method, 4) Fine-tuning of the pruned network to recover the detection accuracy and 5) Hardware acceleration by overclocking the RPi4B to improve the inference speed of the algorithm. Experimental results of the proposed forest fire detection system show that the proposed algorithm compared to the state-of-the-art that run on RPi single board computer, achieves 50% higher inference speed (9 FPS), reduction in CPU usage and temperature by 35% and 25% respectively and 10% reduced power consumption while the accuracy (92.5%) is only compromised by 2%. Finally, it is worth noting that the accuracy of the proposed algorithm is not affected by deviations in the bird-eye view angle.
@@ -49,19 +47,19 @@ This paper proposes a system architecture that uses deep learning image processi
 
 <iframe width="300" src="https://www.youtube.com/embed/rG7kNidA9aY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Indoor 3D Positioning System ###
+## Indoor 3D Positioning System ##
 Contributed to an open-source project using Multiple Stereo Cameras for indoor 3D positioning.
 Implemented Deep Learning algorithms to enhance system accuracy and reliability.
 
-### Community Engagement ###
+## Community Engagement ##
 Creator of AI-related content on YouTube and Medium, focusing on Machine Learning and Computer Vision.
 - [My Medium Blog](https://medium.com/@skristian266)
 - [My YouTube](https://www.youtube.com/@kristianye562)
 
-## Talks & Lectures
+# Talks & Lectures
 - “A CNN-based Real-time Forest Fire Detection System for Low-power Embedded Devices” - Talk on the 31st Mediterranean Conference on Control and Automation (MED) , Fall 2023.
 
-## Publications
+# Publications
 
 1. Ye, J., Ioannou, S., Nikolaou, P. and Raspopoulos, M., 2023, June. CNN based Real-time Forest Fire Detection System for Low-power Embedded Devices. In 2023 <i>31st Mediterranean Conference on Control and Automation (MED)</i> (pp. 137-143). IEEE.
 
@@ -69,14 +67,20 @@ Creator of AI-related content on YouTube and Medium, focusing on Machine Learnin
 - Reproduced several classic Computer Vision papers using Python.
 - My work is available on [GitHub repository](https://github.com/JYe9?tab=repositories).
 
-## Skills and Technologies
-* PROGRAMMING 
-* TEAMWORK/COLLABORATION 
-* PROJECT MANAGEMENT 
-* ADAPTABILITY 
-* PROBLEM SOLVING 
+# Skills and Technologies
+* Software Engineering
+* Software Development Life Cycle
+* Software Testing and Debugging
+* Technical Documentation
+* Deep Learning Frameworks
+* Machine Learning Algorithms
+* Computer Vision
+* Git Version Control
+* Cloud Computing (AWS)
+* Agile Project Management
+* Team Collaboration
 
-### Programming languages
+## Programming languages
 
 <table align="center" style="border-collapse: collapse; border: none;font-size:14px">
   <tr style="border: none;">
@@ -114,7 +118,7 @@ Creator of AI-related content on YouTube and Medium, focusing on Machine Learnin
 </table>
 
 
-### Data science frameworks
+## Data science frameworks
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -146,7 +150,7 @@ Creator of AI-related content on YouTube and Medium, focusing on Machine Learnin
 </table>
 
 
-### Tools
+## Tools
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -177,7 +181,7 @@ Creator of AI-related content on YouTube and Medium, focusing on Machine Learnin
   </tr>
 </table>
 
-## Activities
+# Activities
 * Member of IET
 * AWS Certified Cloud Practitioner
 * Chairman of IET On Campus program in UCLan Cyprus 
