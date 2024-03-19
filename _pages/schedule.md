@@ -3,8 +3,7 @@ permalink: /schedule/
 title: "Course Schedule"
 author_profile: true
 ---
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FNicosia&bgcolor=%23ffffff&mode=WEEK&src=ZDJlYWRlM2VlMDE1Y2MwYWE3YWE2NzQ0ZTBmYzJmMjUxMDk4MGI3NTVhYzU2OWZiMmVmODM2ODY4NDRjMmJiNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4uY3kjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F4511E&color=%230B8043" 
-style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FNicosia&bgcolor=%23ffffff&showTitle=0&mode=WEEK&src=ZDJlYWRlM2VlMDE1Y2MwYWE3YWE2NzQ0ZTBmYzJmMjUxMDk4MGI3NTVhYzU2OWZiMmVmODM2ODY4NDRjMmJiNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4uY3kjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F4511E&color=%230B8043" style="border-width:0" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 <script>
 window.addEventListener('load', () => {
     const anchor = location.href.match(/#[^#]+$/);
